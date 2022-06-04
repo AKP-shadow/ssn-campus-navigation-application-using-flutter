@@ -9,13 +9,13 @@
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
     
     <application
-        android:name="io.flutter.app.FlutterApplication"
-        android:label="flutter_maps"
+        android:name="${applicationName}"
+        android:label="FindBear"
         android:icon="@mipmap/ic_launcher">
 
         <!-- Add your Google Maps API Key here -->
         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="YOUR KEY HERE"/>
+               android:value="AIzaSyB9izx0om8RewPEKlLYWEob0i_UIJOl2ew"/>
 
         <activity
             android:name=".MainActivity"
