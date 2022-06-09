@@ -1,0 +1,233 @@
+{
+    "1": {
+        "point_no": "1",
+        "lat_lng": "12.751617010495364, 80.20367432693531",
+        "label": "SSN Main Entrance, Entrance",
+        "adj": "2,3",
+        "is_marker": "1"
+    },
+    "2": {
+        "point_no": "2",
+        "lat_lng": "12.752208238293772, 80.20361531835628",
+        "label": "Front Parking,parking1",
+        "adj": "1,3",
+        "is_marker": "1"
+    },
+    "3": {
+        "point_no": "3",
+        "lat_lng": "12.752134988912399, 80.2025585280352",
+        "label": "Main Rd1",
+        "adj": "2,4,5,1",
+        "is_marker": "0"
+    },
+    "4": {
+        "point_no": "4",
+        "lat_lng": "12.752412290045065, 80.20264972313595",
+        "label": "School of Advanced Career education, Career education",
+        "adj": "3",
+        "is_marker": "1"
+    },
+    "5": {
+        "point_no": "5",
+        "lat_lng": "12.752276218618697, 80.20042431820106",
+        "label": "first right",
+        "adj": "3,6",
+        "is_marker": "0"
+    },
+    "6": {
+        "point_no": "6",
+        "lat_lng": "12.752236906621, 80.19999438536233",
+        "label": "first_left",
+        "adj": "5,7,16",
+        "is_marker": "0"
+    },
+    "7": {
+        "point_no": "7",
+        "lat_lng": "12.751559865737509, 80.19988690213688",
+        "label": "GHR1",
+        "adj": "6,8,9",
+        "is_marker": "0"
+    },
+    "8": {
+        "point_no": "8",
+        "lat_lng": "12.751321471418855, 80.19968454089522",
+        "label": "basketball court",
+        "adj": "7,8",
+        "is_marker": "1"
+    },
+    "9": {
+        "point_no": "9",
+        "lat_lng": "12.750739995664135, 80.19989991422685",
+        "label": "GHR2",
+        "adj": "7,8,10",
+        "is_marker": "0"
+    },
+    "10": {
+        "point_no": "10",
+        "lat_lng": "12.75072477376422, 80.19927252224987",
+        "label": "GHR3",
+        "adj": "9,11,12",
+        "is_marker": "0"
+    },
+    "11": {
+        "point_no": "11",
+        "lat_lng": "12.750112852792107, 80.19926315819035",
+        "label": "Gents Hostel - 5, GH5",
+        "adj": "10",
+        "is_marker": "1"
+    },
+    "12": {
+        "point_no": "12",
+        "lat_lng": "12.75073086252934, 80.1988979598165",
+        "label": "pg_messlink",
+        "adj": "10,13,14",
+        "is_marker": "0"
+    },
+    "13": {
+        "point_no": "13",
+        "lat_lng": "12.751047477767543, 80.19891044522922",
+        "label": "PG Mess",
+        "adj": "12,14",
+        "is_marker": "1"
+    },
+    "14": {
+        "point_no": "14",
+        "lat_lng": "12.751032255900947, 80.19823623290313",
+        "label": "Open Air theatre Back",
+        "adj": "12,13,23,15",
+        "is_marker": "1"
+    },
+    "15": {
+        "point_no": "15",
+        "lat_lng": "12.752299048159097, 80.19821701587385",
+        "label": "Research centre Road",
+        "adj": "14,16,17",
+        "is_marker": "1"
+    },
+    "16": {
+        "point_no": "16",
+        "lat_lng": "12.752458627054455, 80.19834039748723",
+        "label": "Vama Sundari Park",
+        "adj": "15,20,6",
+        "is_marker": "1"
+    },
+    "17": {
+        "point_no": "17",
+        "lat_lng": "12.752288583975549, 80.19779188570172",
+        "label": "parkleft1",
+        "adj": "15,18,17",
+        "is_marker": "0"
+    },
+    "18": {
+        "point_no": "18",
+        "lat_lng": "12.752288583967838, 80.19728763045981",
+        "label": "parkleft2",
+        "adj": "17,19,20,21",
+        "is_marker": "0"
+    },
+    "19": {
+        "point_no": "19",
+        "lat_lng": "12.752259807437376, 80.19668413341711",
+        "label": "parkleft3",
+        "adj": "18,21,33",
+        "is_marker": "0"
+    },
+    "20": {
+        "point_no": "20",
+        "lat_lng": "12.752539724483919, 80.19772751272455",
+        "label": "parkcentre1",
+        "adj": "15,17,21,20",
+        "is_marker": "0"
+    },
+    "21": {
+        "point_no": "21",
+        "lat_lng": "12.752623437932467, 80.19707573594054",
+        "label": "parkcentre2",
+        "adj": "20,18,19,22",
+        "is_marker": "0"
+    },
+    "22": {
+        "point_no": "22",
+        "lat_lng": "12.752762088269872, 80.19653124752752",
+        "label": "Clock Tower, CT",
+        "adj": "21,33",
+        "is_marker": "1"
+    },
+    "23": {
+        "point_no": "23",
+        "lat_lng": "12.751050082149861, 80.1970239333744",
+        "label": "cseroad1",
+        "adj": "14,24,27",
+        "is_marker": "0"
+    },
+    "24": {
+        "point_no": "24",
+        "lat_lng": "12.75120353682671, 80.19703605597202",
+        "label": "twin_dept_it_cse",
+        "adj": "23,25,26",
+        "is_marker": "0"
+    },
+    "25": {
+        "point_no": "25",
+        "lat_lng": "12.751226411094398, 80.19689403705775",
+        "label": "Department of Information Technology,it dept, it",
+        "adj": "24",
+        "is_marker": "1"
+    },
+    "26": {
+        "point_no": "26",
+        "lat_lng": "12.751222598717085, 80.19711423152562",
+        "label": "Department of Computer Science Engineering,cse dept, cse",
+        "adj": "24",
+        "is_marker": "1"
+    },
+    "27": {
+        "point_no": "27",
+        "lat_lng": "12.751027891193404, 80.19615329488826",
+        "label": "library front",
+        "adj": "23,28,29",
+        "is_marker": "0"
+    },
+    "28": {
+        "point_no": "28",
+        "lat_lng": "12.751162816393933, 80.19619629147059",
+        "label": "Library ",
+        "adj": "27",
+        "is_marker": "1"
+    },
+    "29": {
+        "point_no": "29",
+        "lat_lng": "12.751009658053142, 80.1957831503405",
+        "label": "ecefront",
+        "adj": "29",
+        "is_marker": "0"
+    },
+    "30": {
+        "point_no": "30",
+        "lat_lng": "12.751613174314508, 80.19577567266604",
+        "label": "Fountain",
+        "adj": "29,31",
+        "is_marker": "1"
+    },
+    "31": {
+        "point_no": "31",
+        "lat_lng": "12.752078117895827, 80.19577193384352",
+        "label": "Fountainfront",
+        "adj": "30,32",
+        "is_marker": "0"
+    },
+    "32": {
+        "point_no": "32",
+        "lat_lng": "12.75224039211608, 80.19600561094302",
+        "label": "Fountainfrontexitright",
+        "adj": "31,33",
+        "is_marker": "0"
+    },
+    "33": {
+        "point_no": "33",
+        "lat_lng": "12.752422722576574, 80.19551395432566",
+        "label": "Fountainfrontexitleft",
+        "adj": "31,32,19,22",
+        "is_marker": "0"
+    }
+}
